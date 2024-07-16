@@ -13,11 +13,13 @@ module.exports = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors : {
-        "bgColor": "#0d0c22",
-        "bgSoft" : "#2d2b42",
-        "textColor" : "white",
-        "textSoft" : "#e5e5e5",
-        "btn" : "#3673fd",
+        bgColor: "#1c0f2e", // Deep purple background
+        textColor: "#e0e0e0", // Light gray text
+        primary: "#6a0dad", // Primary purple
+        secondary: "#9c27b0", // Secondary lighter purple
+        accent: "#d8b6ff", // Accent color (light purple/pink)
+        textSoft: "#e5e5e5", // Soft text color
+        btn: "#3673fd", // Button color
       }
     },
   },

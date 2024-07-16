@@ -7,3 +7,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* global.css */
+.navbar-styles {
+    @apply p-2.5 text-center rounded-[20px] font-[500];
+  }
+.about-styles {
+    @apply text-primary text-base font-bold
+}
+
+.input-styles {
+    @apply p-5 outline-none border-none rounded bg-secondary
+}

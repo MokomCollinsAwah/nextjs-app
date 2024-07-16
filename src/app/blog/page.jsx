@@ -1,7 +1,9 @@
+import PostCard from "@/components/PostCard"
+
 const BlogPage = () => {
-    return <>
-    <h1>Blog Page</h1>
-    </>
+    return <div>
+        <PostCard/>
+    </div>
 }
 
 export default BlogPage
