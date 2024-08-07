@@ -20,7 +20,10 @@ module.exports = {
         accent: "#d8b6ff", // Accent color (light purple/pink)
         textSoft: "#e5e5e5", // Soft text color
         btn: "#3673fd", // Button color
-      }
+      },
+      height: {
+        'calc-100vh-200': 'calc(100vh - 200px)',
+      },
     },
   },
   plugins: [],

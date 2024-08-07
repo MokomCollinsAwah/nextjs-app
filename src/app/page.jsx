@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Home = () => {
   return (
-    <div className="flex gap-[100px] p-8">
+    <div className="flex gap-40 p-8">
       {/* MAIN TEXT CONTAINER */}
       <div className="flex flex-col flex-1">
         {/* TEXT CONTAINER */}
